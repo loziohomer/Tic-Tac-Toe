@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tris</string>
+    <string name="player_1">Giocatore 1</string>
+    <string name="player_2">Giocatore 2</string>
+    <string name="start_game">Inizia partita</string>
+    <string name="already_chosen">Casella già occupata</string>
+</resources>
